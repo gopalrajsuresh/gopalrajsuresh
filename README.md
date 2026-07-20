@@ -157,3 +157,4 @@ Proof-of-concept applications built at **Cloud2 Labs**:
 ---
 
 *Open to collaborating on GenAI, agentic systems, and AI infrastructure — reach out anytime.* ✨
+
